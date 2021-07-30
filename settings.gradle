@@ -1,0 +1,2 @@
+rootProject.name = "WebStorageCredentials"
+include ':app'
